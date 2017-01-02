@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-
+# Anudeep Samaiya
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -35,5 +35,16 @@
  **Today's Progress**: Forked the ***100-days-of-code*** repo and wrote the very first log. Started an ***Android Project*** to browse user's Images in external and internal storage of device through a gallery. No spams and probably no ads.
 
  **Thoughts:** Creating this image library app to learn and provide a poc of storage and camera platform apis in android.
+
+ **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
+
+  ### Day 1: January 2, 2016 
+
+ **Today's Progress**: The progress was very slow and unsteady,
+ just read about ways to read images from external storage in android. Apparently reading data of other apps from internal storage is not possible. will have to read more about it, look for some libraries if possible.
+
+ UI have to be a simple gridview that list images read from external storage and allows user to select one or multiple items. A FAB on right bottom of the screen will allow user to access the Camera and take fresh photos and save them to external storage. 
+
+ **Thoughts:** Not very clear about what an how to read from external storage.  
 
  **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
