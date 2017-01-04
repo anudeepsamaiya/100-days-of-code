@@ -58,3 +58,11 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
 
+### Day 3: January 4, 2016
+
+ **Today's Progress**: wrote functions to query media provider and get images, execution and testing has to be done.
+
+ **Thoughts:** Missed Javascript on freecodecamp and need to bring consistency.
+
+ **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
+
