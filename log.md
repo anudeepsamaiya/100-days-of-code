@@ -33,7 +33,7 @@
 
 ### Day 0: January 1, 2016 
 
- **Today's Progress**: Forked the ***100-days-of-code*** repo and wrote the very first log. Started an ***Android Project*** to browse user's Images in external and internal storage of device through a gallery. No spams and probably no ads.
+ **Today's Progress:** Forked the ***100-days-of-code*** repo and wrote the very first log. Started an ***Android Project*** to browse user's Images in external and internal storage of device through a gallery. No spams and probably no ads.
 
  **Thoughts:** Creating this image library app to learn and provide a poc of storage and camera platform apis in android.
 
@@ -41,7 +41,7 @@
 
 ### Day 1: January 2, 2016 
 
- **Today's Progress**: The progress was very slow and unsteady,
+ **Today's Progress:** The progress was very slow and unsteady,
  just read about ways to read images from external storage in android. Apparently reading data of other apps from internal storage is not possible. will have to read more about it, look for some libraries if possible.
 
  UI have to be a simple gridview that list images read from external storage and allows user to select one or multiple items. A FAB on right bottom of the screen will allow user to access the Camera and take fresh photos and save them to external storage. 
@@ -52,7 +52,7 @@
 
 ### Day 2: January 3, 2016
 
- **Today's Progress**: Very little code was written today but got a clear idea about Media Providers in android. I will be using this approach to query images from external and interal storage.
+ **Today's Progress:** Very little code was written today but got a clear idea about Media Providers in android. I will be using this approach to query images from external and interal storage.
 
  **Thoughts:** Achieved clarity on approach to read media from external and internal storage. Further reading will clarify any confusions hereafter.
 
@@ -60,9 +60,24 @@
 
 ### Day 3: January 4, 2016
 
- **Today's Progress**: wrote functions to query media provider and get images, execution and testing has to be done.
+ **Today's Progress:** wrote functions to query media provider and get images, execution and testing has to be done.
 
  **Thoughts:** Missed Javascript on freecodecamp and need to bring consistency.
 
  **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
 
+### Day 4: January 7, 2016
+  
+ **Today's Progress:** Competed in a coding challenge on hacker-earth. Developed a elo rating system, to rank kings of Game of Thrones in a leaderboad.
+
+ **Thoughts:** Got a grip on using Retrofit. Tried out my first android ORM ***cupboard***, saved a lot of time for setting up databases.
+
+ **Link to work:** htttps://github.com/anudeepsamaiya/got-westeros-at-war
+
+### Day 5: January 8, 2016
+
+ **Today's Progress:** Tried the image app on device, it doesn't reads all the images from the device. need to look into the issue.
+
+ **Thoughts:** Started the freecodecamps bootstrap chapter. intend to finish it this week.
+
+ **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
