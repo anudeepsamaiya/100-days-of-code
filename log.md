@@ -81,3 +81,19 @@
  **Thoughts:** Started the freecodecamps bootstrap chapter. intend to finish it this week.
 
  **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
+
+### Day 6: January 9, 2016
+
+ **Today's Progress:** The issue from last day got resolved, actually images were getting read, the item layout was taking the whole space on screen.
+
+ **Thoughts:** The freecodecamp bootstrap chapter is yet to be started.
+
+ **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
+
+### Day 7: January 10, 2016
+
+ **Today's Progress:** Learned to create a nodejs api using node js and express4
+
+ **Thoughts:** The freecodecamp chapter on bootstrap is yet to be started. Besides Image Library app needs permission to be handled on Android 6.0 and above. Item decoration and image manipulation are in line as the next features to be worked upon 
+
+ **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
