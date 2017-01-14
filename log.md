@@ -94,6 +94,33 @@
 
  **Today's Progress:** Learned to create a nodejs api using node js and express4
 
- **Thoughts:** The freecodecamp chapter on bootstrap is yet to be started. Besides Image Library app needs permission to be handled on Android 6.0 and above. Item decoration and image manipulation are in line as the next features to be worked upon 
+ **Thoughts:** The freecodecamp chapter on bootstrap is yet to be started.
 
- **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
+ **Link to work:** https://github.com/anudeepsamaiya/NodeJs-HelloWorld
+
+ ### Day 8: January 11, 2016
+
+ **Today's Progress:** Learning to make a nodejs api - day 2. Also began the bootstrap chapter on freecodecamp though only attempted few excercises.
+
+ **Thoughts:**  
+
+ **Link to work:** https://github.com/anudeepsamaiya/NodeJs-HelloWorld
+
+ ### Day 9: January 12, 2016
+
+ **Today's Progress:** Learning to make a nodejs api - day 3.
+ Learned about express routes and worked some exercises of bootstrap on freecodecamp.
+
+ **TODO**  Besides Image Library app needs permission to be handled on Android 6.0 and above. Item decoration and image manipulation are in line as the next features to be worked upon. 
+
+ **Thoughts:** 
+
+ **Link to work:** https://github.com/anudeepsamaiya/NodeJs-HelloWorld
+
+ ### Day 10: January 14, 2016
+
+ **Today's Progress:** Participated in Rang-de challenge on Hackerearth. used Retrofit and shared-preferences.
+
+ **Thoughts:** Learned the basics of sharedpreferences on android or atleast revised m y understanding of how sharedpreferences work on android.
+
+ **Link to work:** https://github.com/anudeepsamaiya/rangde-educorp
