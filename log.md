@@ -98,7 +98,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/NodeJs-HelloWorld
 
- ### Day 8: January 11, 2016
+### Day 8: January 11, 2016
 
  **Today's Progress:** Learning to make a nodejs api - day 2. Also began the bootstrap chapter on freecodecamp though only attempted few excercises.
 
@@ -106,7 +106,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/NodeJs-HelloWorld
 
- ### Day 9: January 12, 2016
+### Day 9: January 12, 2016
 
  **Today's Progress:** Learning to make a nodejs api - day 3.
  Learned about express routes and worked some exercises of bootstrap on freecodecamp.
@@ -115,7 +115,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/NodeJs-HelloWorld
 
- ### Day 10: January 14, 2016
+### Day 10: January 14, 2016
 
  **Today's Progress:** Participated in Rang-de challenge on Hackerearth. used Retrofit and shared-preferences.
 
@@ -123,7 +123,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/rangde-educorp
 
-### Day 11: January 15, 2016
+###Day 11: January 15, 2016
 
  **Today's Progress:** Learned basics of React mostly went through unofficial docs.
 
@@ -131,7 +131,7 @@
 
  **Link to work:** 
 
-### Day 12: January 16, 2016, Monday
+###Day 12: January 16, 2016, Monday
 
  **Today's Progress:** Created a android libray repo for a custom progress view.
 
@@ -139,7 +139,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/ProgressView
 
-### Day 13: January 17, 2016, Tuesday
+###Day 13: January 17, 2016, Tuesday
 
  **Today's Progress:** Added permission utils for image library app.
 
@@ -150,6 +150,7 @@
 **TODO(s)**  
  * Image Library app needs permission to be handled on Android 6.0 and above. 
  * Item decoration and image manipulation are in line as the next features to be worked upon.
+ * Fix JobRunner
  * Custom progress view library 
  * Build a pomodoro app on javascript and android
  * A todo scheduler app
