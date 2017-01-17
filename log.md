@@ -111,8 +111,6 @@
  **Today's Progress:** Learning to make a nodejs api - day 3.
  Learned about express routes and worked some exercises of bootstrap on freecodecamp.
 
- **TODO**  Besides Image Library app needs permission to be handled on Android 6.0 and above. Item decoration and image manipulation are in line as the next features to be worked upon. 
-
  **Thoughts:** 
 
  **Link to work:** https://github.com/anudeepsamaiya/NodeJs-HelloWorld
@@ -121,6 +119,39 @@
 
  **Today's Progress:** Participated in Rang-de challenge on Hackerearth. used Retrofit and shared-preferences.
 
- **Thoughts:** Learned the basics of sharedpreferences on android or atleast revised m y understanding of how sharedpreferences work on android.
+ **Thoughts:** Learned the basics of sharedpreferences on android or atleast revised my understanding of how sharedpreferences work on android.
 
  **Link to work:** https://github.com/anudeepsamaiya/rangde-educorp
+
+### Day 11: January 15, 2016
+
+ **Today's Progress:** Learned basics of React mostly went through unofficial docs.
+
+ **Thoughts:** 
+
+ **Link to work:** 
+
+### Day 12: January 16, 2016, Monday
+
+ **Today's Progress:** Created a android libray repo for a custom progress view.
+
+ **Thoughts:** I aim to learn drawing on canvas and better my understanding of using canvas, paint, path and how custom views can be rendered.
+
+ **Link to work:** https://github.com/anudeepsamaiya/ProgressView
+
+### Day 13: January 17, 2016, Tuesday
+
+ **Today's Progress:** Added permission utils for image library app.
+
+ **Thoughts:** Aim to publish this app on playstore. really struggling with consistency on freecodecamp.
+
+ **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
+
+**TODO(s)**  
+ * Image Library app needs permission to be handled on Android 6.0 and above. 
+ * Item decoration and image manipulation are in line as the next features to be worked upon.
+ * Custom progress view library 
+ * Build a pomodoro app on javascript and android
+ * A todo scheduler app
+ * Mock Location app for android
+ * freecodecamp bootstrap course
