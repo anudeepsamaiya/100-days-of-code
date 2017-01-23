@@ -165,15 +165,14 @@
 
 
 **TODO(s)**  
- * ***Image Library app*** needs permission to be handled on Android 6.0 and above. 
- * Item decoration and image manipulation are in line as the next features to be worked upon.
+ * ***Image Library app*** needs permission to be handled on Android 6.0 and above. Item decoration and image manipulation are in line as the next features to be worked upon.
  * Fix ***JobRunner***
  * Custom progress view library
  * Permissions Utils library 
- * Build a ***pomodoro app*** on javascript and android
- * make ***un-todo scheduler app***
  * ***Mock Location*** app for android
- * start working on ***Radar***
+ * Build a ***pomodoro app*** for javascript and android
+ * make ***un-todo scheduler app*** for javascript and android
+ * start working on ***Radar*** app for javascript and android
  * A simple ***#100daysOfCode community app*** for logging, tweeting and following other members, will help in staying on streak.
 
 **WIP**
