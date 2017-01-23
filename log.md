@@ -147,7 +147,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
 
- ###Day 14: January 20, 2017, Friday
+###Day 14: January 20, 2017, Friday
 
  **Today's Progress:** Worked on progress view library. WIP
 
@@ -171,11 +171,10 @@
  * Custom progress view library
  * Permissions Utils library 
  * Build a ***pomodoro app*** on javascript and android
- * A ***todo scheduler app***
+ * make ***un-todo scheduler app***
  * ***Mock Location*** app for android
- * freecodecamp bootstrap course
+ * start working on ***Radar***
  * A simple ***#100daysOfCode community app*** for logging, tweeting and following other members, will help in staying on streak.
- * ***Radar***
 
 **WIP**
  * Earn ***freecodecamp frontend certification***.
