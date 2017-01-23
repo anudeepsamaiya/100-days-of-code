@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 # Anudeep Samaiya
 <!-- 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -10,7 +10,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 0: February 30, 2017 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -31,7 +31,7 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
  -->
 
-### Day 0: January 1, 2016 
+### Day 0: January 1, 2017 
 
  **Today's Progress:** Forked the ***100-days-of-code*** repo and wrote the very first log. Started an ***Android Project*** to browse user's Images in external and internal storage of device through a gallery. No spams and probably no ads.
 
@@ -39,7 +39,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
 
-### Day 1: January 2, 2016 
+### Day 1: January 2, 2017 
 
  **Today's Progress:** The progress was very slow and unsteady,
  just read about ways to read images from external storage in android. Apparently reading data of other apps from internal storage is not possible. will have to read more about it, look for some libraries if possible.
@@ -50,7 +50,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
 
-### Day 2: January 3, 2016
+### Day 2: January 3, 2017
 
  **Today's Progress:** Very little code was written today but got a clear idea about Media Providers in android. I will be using this approach to query images from external and interal storage.
 
@@ -58,7 +58,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
 
-### Day 3: January 4, 2016
+### Day 3: January 4, 2017
 
  **Today's Progress:** wrote functions to query media provider and get images, execution and testing has to be done.
 
@@ -66,7 +66,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
 
-### Day 4: January 7, 2016
+### Day 4: January 7, 2017
   
  **Today's Progress:** Competed in a coding challenge on hacker-earth. Developed a elo rating system, to rank kings of Game of Thrones in a leaderboad.
 
@@ -74,7 +74,7 @@
 
  **Link to work:** htttps://github.com/anudeepsamaiya/got-westeros-at-war
 
-### Day 5: January 8, 2016
+### Day 5: January 8, 2017
 
  **Today's Progress:** Tried the image app on device, it doesn't reads all the images from the device. need to look into the issue.
 
@@ -82,7 +82,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
 
-### Day 6: January 9, 2016
+### Day 6: January 9, 2017
 
  **Today's Progress:** The issue from last day got resolved, actually images were getting read, the item layout was taking the whole space on screen.
 
@@ -90,7 +90,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
 
-### Day 7: January 10, 2016
+### Day 7: January 10, 2017
 
  **Today's Progress:** Learned to create a nodejs api using node js and express4
 
@@ -98,7 +98,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/NodeJs-HelloWorld
 
-### Day 8: January 11, 2016
+### Day 8: January 11, 2017
 
  **Today's Progress:** Learning to make a nodejs api - day 2. Also began the bootstrap chapter on freecodecamp though only attempted few excercises.
 
@@ -106,7 +106,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/NodeJs-HelloWorld
 
-### Day 9: January 12, 2016
+### Day 9: January 12, 2017
 
  **Today's Progress:** Learning to make a nodejs api - day 3.
  Learned about express routes and worked some exercises of bootstrap on freecodecamp.
@@ -115,7 +115,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/NodeJs-HelloWorld
 
-### Day 10: January 14, 2016
+### Day 10: January 14, 2017
 
  **Today's Progress:** Participated in Rang-de challenge on Hackerearth. used Retrofit and shared-preferences.
 
@@ -123,7 +123,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/rangde-educorp
 
-###Day 11: January 15, 2016
+###Day 11: January 15, 2017
 
  **Today's Progress:** Learned basics of React mostly went through unofficial docs.
 
@@ -131,7 +131,7 @@
 
  **Link to work:** 
 
-###Day 12: January 16, 2016, Monday
+###Day 12: January 16, 2017, Monday
 
  **Today's Progress:** Created a android libray repo for a custom progress view.
 
@@ -139,7 +139,7 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/ProgressView
 
-###Day 13: January 17, 2016, Tuesday
+###Day 13: January 17, 2017, Tuesday
 
  **Today's Progress:** Added permission utils for image library app.
 
@@ -147,10 +147,27 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/urban-carnival
 
+ ###Day 14: January 20, 2017, Friday
+
+ **Today's Progress:** Worked on progress view library. WIP
+
+ **Thoughts:** Learned about android `Canvas`, `Paint` flags `Path.moveto` and `Path.lineto` and `Canvas.drawLine`. Really upped my confidence about android custom views.  
+
+ **Link to work:** https://github.com/anudeepsamaiya/ProgressView
+
+###Day 15: January 23, 2017, Monday
+
+ **Today's Progress:** Worked on a tutorial on Django firstapp
+
+ **Thoughts:**   
+
+ **Link to work:** https://github.com/anudeepsamaiya/django-firstapp
+
+
 **TODO(s)**  
  * ***Image Library app*** needs permission to be handled on Android 6.0 and above. 
  * Item decoration and image manipulation are in line as the next features to be worked upon.
- * Fix JobRunner
+ * Fix ***JobRunner***
  * Custom progress view library
  * Permissions Utils library 
  * Build a ***pomodoro app*** on javascript and android
@@ -158,3 +175,7 @@
  * ***Mock Location*** app for android
  * freecodecamp bootstrap course
  * A simple ***#100daysOfCode community app*** for logging, tweeting and following other members, will help in staying on streak.
+ * ***Radar***
+
+**WIP**
+ * Earn ***freecodecamp frontend certification***.
