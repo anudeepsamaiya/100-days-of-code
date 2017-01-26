@@ -163,6 +163,22 @@
 
  **Link to work:** https://github.com/anudeepsamaiya/django-firstapp
 
+###Day 16: January 24, 2017, Tuesday
+
+ **Today's Progress:** Worked on a tutorial on Django firstapp
+and fixed goal length of progressview.
+
+ **Thoughts:**   
+
+ **Link to work:** https://github.com/anudeepsamaiya/django-firstapp
+
+###Day 17: January 26, 2017, Thursday
+
+ **Today's Progress:** Started read later project.
+
+ **Thoughts:** Aiming to strong my grasp on django backend aand test waters with free text search. front end will be in angular.
+
+ **Link to work:** https://github.com/anudeepsamaiya/django-firstapp
 
 **TODO(s)**  
 
@@ -176,7 +192,7 @@
  * start working on ***Radar*** app for javascript and android
  * A simple ***#100daysOfCode community app*** for logging, tweeting and following other members, will help in staying on streak.
  * django-firstapp 
- * django free text search angular and android
+ * ***read-later*** django free text search angular and android
  * ***PF utilities*** angular and android
 
 **WIP**
