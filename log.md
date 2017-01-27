@@ -191,9 +191,10 @@ and fixed goal length of progressview.
  * make ***un-todo scheduler app*** for javascript and android
  * start working on ***Radar*** app for javascript and android
  * A simple ***#100daysOfCode community app*** for logging, tweeting and following other members, will help in staying on streak.
- * django-firstapp 
  * ***read-later*** django free text search angular and android
  * ***PF utilities*** angular and android
  * Website for self.
+
 **WIP**
  * Earn ***freecodecamp frontend certification***.
+ * django-firstapp 
