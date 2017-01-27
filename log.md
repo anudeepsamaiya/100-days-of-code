@@ -194,6 +194,6 @@ and fixed goal length of progressview.
  * django-firstapp 
  * ***read-later*** django free text search angular and android
  * ***PF utilities*** angular and android
-
+ * Website for self.
 **WIP**
  * Earn ***freecodecamp frontend certification***.
