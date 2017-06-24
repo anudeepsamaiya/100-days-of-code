@@ -180,21 +180,79 @@ and fixed goal length of progressview.
 
  **Link to work:** https://github.com/anudeepsamaiya/django-firstapp
 
+###Day 18: Januay 27, 2017, Friday
+
+ **Today's Progress:** Worked on django-starter app to learn django.
+
+ **Thoughts:** Learned about `Django Views` and `URLConf` and url pattern matching.
+
+ **Link to work:** https://github.com/anudeepsamaiya/django-firstapp
+
+###Day 19: Januay 28, 2017, Saturday
+
+ **Today's Progress:** Did freecodecamp excercises on bootstrap.
+ Finished bootstrap section. 
+
+ **Thoughts:** I learned about wells and bootstrp 12 grid system to place content on webpage.
+
+ **Link to work:** 
+
+###Day 20: Januay 30, 2017, Monday
+
+ **Today's Progress:** set up vimscripts.
+
+ **Thoughts:** learned to configure vim.
+
+ **Link to work:** https://github.com/anudeepsamaiya/config-dotfiles
+
 **TODO(s)**  
 
  * Custom progress view library
  * Permissions Utils library
  * ***Image Gallery app*** needs permission to be handled on Android 6.0 and above, Item decoration, detail view and image manipulations.
- * Fix ***JobRunner*** 
+   * This app intended to provide basic image processing on the smartphone for professional photographers and enables them to share it across the social media.
+ * Debug ***JobRunner*** and add categories
  * ***Mock Location*** app for android
  * Build a ***pomodoro app*** for javascript and android
  * make ***un-todo scheduler app*** for javascript and android
  * start working on ***Radar*** app for javascript and android
  * A simple ***#100daysOfCode community app*** for logging, tweeting and following other members, will help in staying on streak.
- * ***read-later*** django free text search angular and android
  * ***PF utilities*** angular and android
- * Website for self.
+ * ***Personal portfolio website***.
+ * furry-guide (gif repository)
+ * effective-giggle (ttt stories)
+ * ***wallpaper app*** web and android
+ * ***mnemonic/anki*** spaced repetition revision technique
+ * ***newsletter app*** like highbrow and android playbook.
+ * ***react-tic-tac-toe***
+ * eye-candy ecommerce mock for swag
+ * smartlink/rightclick/superlink refferal and reccommendation based ad platform.
+ * pulse app family
+   * entry point expense tracking and budgeting
+   * settle splits and debts
+   * suggest saving/investing instruments
+ * Screeny
+ * Rocket Launch Library
+ * Know-your-stars
+ * States and capitals mnemonic/anki app
+ * angular starter app
+
+
+
 
 **WIP**
  * Earn ***freecodecamp frontend certification***.
  * django-firstapp 
+ * Django-rest-framework and serialization.(http://www.django-rest-framework.org/#example)
+ * ***read-later*** django free text search angular and android
+ 
+ **Read Later**
+ * http://elijahmanor.com/talks/react-to-the-future
+ * https://facebook.github.io/react/
+ * https://github.com/petehunt/react-howto
+ * https://scotch.io/tutorials/learning-react-getting-started-and-concepts
+ * https://www.stavros.io/tutorials/python/
+ * https://learnpythonthehardway.org/book/
+ * https://www.fullstackpython.com/best-python-resources.html
+ * http://www.interactivepython.org/courselib/static/pythonds/index.html
+ * 
